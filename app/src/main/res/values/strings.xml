@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">chat n more</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="send_button_label">Send</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="facebook_app_id">539438376397870</string>
+    <string name="fb_login_protocol_scheme">fb539438376397870</string>
+    <string name="textview">TextView</string>
+    <string name="name">Name</string>
+    <string name="type_your_name">Type your name</string>
+    <string name="save">Save</string>
+    <string name="who_the_fuck_are_you">who the fuck are you ?</string>
+    <string name="type_your_nick_name_below">type your nick name below</string>
+
+</resources>

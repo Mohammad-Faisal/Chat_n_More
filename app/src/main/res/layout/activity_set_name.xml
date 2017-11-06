@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.google.firebase.udacity.friendlychat.SetName">
+
+    <EditText
+        android:id="@+id/name_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/set_name_text_view"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="87dp"
+        android:ems="10"
+        android:hint="@string/type_your_name"
+        android:inputType="textPersonName"
+        tools:ignore="UnknownId" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="97dp"
+        android:text="@string/save"
+        android:layout_below="@+id/name_text"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>
